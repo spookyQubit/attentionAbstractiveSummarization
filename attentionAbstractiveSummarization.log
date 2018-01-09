@@ -1,0 +1,298 @@
+07-01-2018:17:33:32,989 INFO     [main.py:39] in main
+07-01-2018:17:35:33,81 INFO     [main.py:39] in main
+07-01-2018:17:35:48,40 INFO     [main.py:39] in main
+07-01-2018:17:39:50,818 INFO     [main.py:41] in main
+07-01-2018:17:39:50,818 INFO     [main.py:27] Starting to train
+07-01-2018:17:39:50,820 INFO     [main.py:29] train_article_file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/data/train.article.txt
+07-01-2018:20:59:08,921 INFO     [main.py:53] in main
+07-01-2018:20:59:08,922 INFO     [main.py:31] Starting to train
+07-01-2018:20:59:22,731 INFO     [main.py:53] in main
+07-01-2018:20:59:22,732 INFO     [main.py:31] Starting to train
+07-01-2018:20:59:22,734 INFO     [data_utils.py:38] Getting w2c
+07-01-2018:20:59:22,735 INFO     [data_utils.py:7] len(data_files) = 2
+07-01-2018:21:02:13,351 INFO     [main.py:53] in main
+07-01-2018:21:02:13,351 INFO     [main.py:31] Starting to train
+07-01-2018:21:02:13,354 INFO     [data_utils.py:42] Getting w2c
+07-01-2018:21:02:13,354 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:15:55,145 INFO     [main.py:53] in main
+07-01-2018:22:15:55,145 INFO     [main.py:31] Starting to train
+07-01-2018:22:15:55,148 INFO     [data_utils.py:42] Getting w2c
+07-01-2018:22:15:55,148 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:16:57,704 INFO     [main.py:53] in main
+07-01-2018:22:16:57,704 INFO     [main.py:31] Starting to train
+07-01-2018:22:16:57,707 INFO     [data_utils.py:42] Getting w2c
+07-01-2018:22:16:57,707 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:17:49,152 INFO     [main.py:53] in main
+07-01-2018:22:17:49,152 INFO     [main.py:31] Starting to train
+07-01-2018:22:17:49,156 INFO     [data_utils.py:42] Getting w2c
+07-01-2018:22:17:49,156 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:19:19,5 INFO     [main.py:53] in main
+07-01-2018:22:19:19,6 INFO     [main.py:31] Starting to train
+07-01-2018:22:19:19,10 INFO     [data_utils.py:45] Getting w2c
+07-01-2018:22:19:19,10 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:20:31,634 INFO     [main.py:53] in main
+07-01-2018:22:20:31,634 INFO     [main.py:31] Starting to train
+07-01-2018:22:20:31,637 INFO     [data_utils.py:45] Getting w2c
+07-01-2018:22:20:31,638 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:21:04,705 INFO     [main.py:53] in main
+07-01-2018:22:21:04,706 INFO     [main.py:31] Starting to train
+07-01-2018:22:21:04,709 INFO     [data_utils.py:47] Getting w2c
+07-01-2018:22:21:04,709 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:22:06,219 INFO     [main.py:53] in main
+07-01-2018:22:22:06,220 INFO     [main.py:31] Starting to train
+07-01-2018:22:22:06,223 INFO     [data_utils.py:50] Getting w2c
+07-01-2018:22:22:06,223 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:23:10,622 INFO     [main.py:53] in main
+07-01-2018:22:23:10,622 INFO     [main.py:31] Starting to train
+07-01-2018:22:23:10,625 INFO     [data_utils.py:51] Getting w2c
+07-01-2018:22:23:10,625 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:24:59,583 INFO     [main.py:53] in main
+07-01-2018:22:24:59,584 INFO     [main.py:31] Starting to train
+07-01-2018:22:24:59,586 INFO     [data_utils.py:51] Getting w2c
+07-01-2018:22:24:59,586 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:22:26:11,994 INFO     [main.py:53] in main
+07-01-2018:22:26:11,995 INFO     [main.py:31] Starting to train
+07-01-2018:22:26:11,998 INFO     [data_utils.py:43] Getting w2c
+07-01-2018:22:26:11,998 INFO     [data_utils.py:11] len(data_files) = 2
+07-01-2018:23:07:01,658 INFO     [main.py:59] in main
+07-01-2018:23:07:01,658 INFO     [main.py:31] Starting to train
+07-01-2018:23:07:01,661 INFO     [data_utils.py:47] Getting w2c
+07-01-2018:23:07:02,959 INFO     [data_utils.py:74] Generating w2i from w2c
+07-01-2018:23:08:11,659 INFO     [main.py:60] in main
+07-01-2018:23:08:11,660 INFO     [main.py:31] Starting to train
+07-01-2018:23:08:11,662 INFO     [data_utils.py:47] Getting w2c
+07-01-2018:23:08:12,943 INFO     [data_utils.py:74] Generating w2i from w2c
+07-01-2018:23:08:12,944 INFO     [data_utils.py:85] Done saving vocab to file
+07-01-2018:23:08:30,231 INFO     [main.py:61] in main
+07-01-2018:23:08:30,231 INFO     [main.py:31] Starting to train
+07-01-2018:23:08:30,234 INFO     [data_utils.py:47] Getting w2c
+07-01-2018:23:08:31,519 INFO     [data_utils.py:74] Generating w2i from w2c
+07-01-2018:23:08:31,520 INFO     [data_utils.py:85] Done saving vocab to file
+07-01-2018:23:09:33,78 INFO     [main.py:62] in main
+07-01-2018:23:09:33,79 INFO     [main.py:31] Starting to train
+07-01-2018:23:09:33,81 INFO     [data_utils.py:47] Getting w2c
+07-01-2018:23:09:34,355 INFO     [data_utils.py:74] Generating w2i from w2c
+07-01-2018:23:09:34,356 INFO     [data_utils.py:85] Done saving vocab to file
+07-01-2018:23:42:27,416 INFO     [main.py:78] in main
+07-01-2018:23:42:27,416 INFO     [main.py:36] Starting to train
+07-01-2018:23:42:27,419 INFO     [data_utils.py:47] Getting w2c
+07-01-2018:23:42:28,733 INFO     [data_utils.py:74] Generating w2i from w2c
+07-01-2018:23:42:28,733 INFO     [data_utils.py:83] Saving w2i to file
+07-01-2018:23:42:28,734 INFO     [data_utils.py:86] Done saving w2i to file
+07-01-2018:23:42:28,734 INFO     [data_utils.py:91] Generating i2w from w2i
+07-01-2018:23:42:28,734 INFO     [data_utils.py:95] Saving i2w to file
+07-01-2018:23:42:28,735 INFO     [data_utils.py:98] Done saving i2w to file
+08-01-2018:09:29:24,650 INFO     [main.py:82] in main
+08-01-2018:09:29:24,650 INFO     [main.py:37] Starting to train
+08-01-2018:09:29:24,652 INFO     [data_utils.py:54] Getting w2c
+08-01-2018:09:29:25,938 INFO     [data_utils.py:81] Generating w2i from w2c
+08-01-2018:09:31:00,122 INFO     [main.py:82] in main
+08-01-2018:09:31:00,123 INFO     [main.py:37] Starting to train
+08-01-2018:09:31:00,126 INFO     [data_utils.py:54] Getting w2c
+08-01-2018:09:31:01,441 INFO     [data_utils.py:81] Generating w2i from w2c
+08-01-2018:09:31:01,441 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:09:31:24,907 INFO     [main.py:82] in main
+08-01-2018:09:31:24,908 INFO     [main.py:37] Starting to train
+08-01-2018:09:31:24,911 INFO     [data_utils.py:54] Getting w2c
+08-01-2018:09:31:26,189 INFO     [data_utils.py:81] Generating w2i from w2c
+08-01-2018:09:31:26,190 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:09:32:04,311 INFO     [main.py:82] in main
+08-01-2018:09:32:04,312 INFO     [main.py:37] Starting to train
+08-01-2018:09:32:04,315 INFO     [data_utils.py:54] Getting w2c
+08-01-2018:09:32:05,635 INFO     [data_utils.py:81] Generating w2i from w2c
+08-01-2018:09:32:05,636 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:09:32:05,637 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:32:05,637 INFO     [data_utils.py:94] Generating i2w from w2i
+08-01-2018:09:32:05,637 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_i2w.txt
+08-01-2018:09:32:05,637 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:32:05,638 INFO     [data_utils.py:105] Getting data and saving
+08-01-2018:09:32:06,894 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:09:32:06,895 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:32:06,895 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:09:32:06,896 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:57:26,51 INFO     [main.py:111] in main
+08-01-2018:09:57:26,51 INFO     [main.py:40] Starting to train
+08-01-2018:09:58:08,717 INFO     [main.py:111] in main
+08-01-2018:09:58:08,717 INFO     [main.py:40] Starting to train
+08-01-2018:09:58:08,720 INFO     [data_utils.py:62] Getting w2c
+08-01-2018:09:58:10,20 INFO     [data_utils.py:89] Generating w2i from w2c
+08-01-2018:09:58:10,20 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:09:58:10,21 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:58:10,21 INFO     [data_utils.py:102] Generating i2w from w2i
+08-01-2018:09:58:10,21 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_i2w.txt
+08-01-2018:09:58:10,22 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:58:10,23 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:09:58:11,276 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:09:58:11,276 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:58:11,276 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:09:58:11,277 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:58:11,278 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:09:58:11,342 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:09:58:11,342 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:58:11,342 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:09:58:11,343 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:09:59:01,172 INFO     [main.py:111] in main
+08-01-2018:09:59:01,172 INFO     [main.py:40] Starting to train
+08-01-2018:09:59:01,176 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:09:59:01,177 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:09:59:01,177 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_i2w.txt
+08-01-2018:09:59:01,178 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:09:59:01,178 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:09:59:01,179 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:09:59:01,179 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:09:59:01,179 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:09:59:01,179 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:09:59:01,179 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:09:59:01,179 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:09:59:01,180 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:01:07,254 INFO     [main.py:125] in main
+08-01-2018:10:01:07,255 INFO     [main.py:40] Starting to train
+08-01-2018:10:01:07,258 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:10:01:07,259 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:01:07,259 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_i2w.txt
+08-01-2018:10:01:07,260 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:01:07,260 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:10:01:07,261 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:01:07,261 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:10:01:07,261 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:01:07,261 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:10:01:07,261 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:01:07,261 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:10:01:07,262 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:02:35,146 INFO     [main.py:125] in main
+08-01-2018:10:02:35,146 INFO     [main.py:40] Starting to train
+08-01-2018:10:02:35,153 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:10:02:35,154 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:02:35,154 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_i2w.txt
+08-01-2018:10:02:35,155 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:02:35,155 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:10:02:35,156 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:02:35,156 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:10:02:35,156 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:02:35,156 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:10:02:35,156 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:02:35,156 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:10:02:35,157 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:10:02:53,813 INFO     [main.py:125] in main
+08-01-2018:10:02:53,813 INFO     [main.py:40] Starting to train
+08-01-2018:10:02:53,818 INFO     [data_utils.py:62] Getting w2c
+08-01-2018:10:02:55,122 INFO     [data_utils.py:89] Generating w2i from w2c
+08-01-2018:10:02:55,122 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:10:02:55,123 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:10:02:55,123 INFO     [data_utils.py:102] Generating i2w from w2i
+08-01-2018:10:02:55,123 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_i2w.txt
+08-01-2018:10:02:55,124 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:10:02:55,125 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:10:02:56,386 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:10:02:56,387 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:10:02:56,387 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:10:02:56,387 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:10:02:56,388 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:10:02:56,454 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:10:02:56,454 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:10:02:56,454 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:10:02:56,454 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:19:06:55,213 INFO     [main.py:25] in main
+08-01-2018:19:06:55,213 INFO     [train.py:108] Starting to train
+08-01-2018:19:06:55,213 INFO     [train.py:100] Starting to get training/validation data
+08-01-2018:19:07:54,827 INFO     [main.py:25] in main
+08-01-2018:19:07:54,827 INFO     [train.py:108] Starting to train
+08-01-2018:19:07:54,827 INFO     [train.py:100] Starting to get training/validation data
+08-01-2018:19:07:54,832 INFO     [data_utils.py:62] Getting w2c
+08-01-2018:19:07:56,163 INFO     [data_utils.py:89] Generating w2i from w2c
+08-01-2018:19:07:56,164 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_w2i.txt
+08-01-2018:19:07:56,165 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:19:07:56,165 INFO     [data_utils.py:102] Generating i2w from w2i
+08-01-2018:19:07:56,165 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/attention_summarizer_i2w.txt
+08-01-2018:19:07:56,165 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:19:07:56,167 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:19:07:57,512 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:19:07:57,513 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:19:07:57,513 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:19:07:57,513 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:19:07:57,514 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:19:07:59,121 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:19:08:05,174 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:19:08:05,174 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:19:08:07,689 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:33:55,139 INFO     [main.py:25] in main
+08-01-2018:23:33:55,139 INFO     [attentionAbstractiveSummarization_train.py:110] Starting to train
+08-01-2018:23:33:55,139 INFO     [attentionAbstractiveSummarization_train.py:102] Starting to get training/validation data
+08-01-2018:23:33:55,144 INFO     [data_utils.py:62] Getting w2c
+08-01-2018:23:33:56,441 INFO     [data_utils.py:89] Generating w2i from w2c
+08-01-2018:23:33:56,442 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_w2i.txt
+08-01-2018:23:33:56,442 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:33:56,443 INFO     [data_utils.py:102] Generating i2w from w2i
+08-01-2018:23:33:56,443 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_i2w.txt
+08-01-2018:23:33:56,443 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:33:56,445 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:23:33:57,702 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:23:33:57,703 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:33:57,703 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:23:33:57,703 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:33:57,705 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:23:33:59,328 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:23:34:05,106 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:34:05,106 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:23:34:07,541 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:36:01,155 INFO     [main.py:25] in main
+08-01-2018:23:36:01,156 INFO     [attentionAbstractiveSummarization_train.py:110] Starting to train
+08-01-2018:23:36:01,156 INFO     [attentionAbstractiveSummarization_train.py:102] Starting to get training/validation data
+08-01-2018:23:36:01,161 INFO     [data_utils.py:62] Getting w2c
+08-01-2018:23:36:02,445 INFO     [data_utils.py:89] Generating w2i from w2c
+08-01-2018:23:36:02,446 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_w2i.txt
+08-01-2018:23:36:02,447 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:36:02,447 INFO     [data_utils.py:102] Generating i2w from w2i
+08-01-2018:23:36:02,447 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_i2w.txt
+08-01-2018:23:36:02,447 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:36:02,449 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:23:36:03,712 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:23:36:03,713 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:36:03,713 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:23:36:03,713 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:36:03,716 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:23:36:05,355 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:23:36:11,491 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:36:11,491 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:23:36:14,82 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:37:01,432 INFO     [main.py:25] in main
+08-01-2018:23:37:01,432 INFO     [attentionAbstractiveSummarization_train.py:110] Starting to train
+08-01-2018:23:37:01,432 INFO     [attentionAbstractiveSummarization_train.py:102] Starting to get training/validation data
+08-01-2018:23:37:01,435 INFO     [data_utils.py:62] Getting w2c
+08-01-2018:23:37:02,725 INFO     [data_utils.py:89] Generating w2i from w2c
+08-01-2018:23:37:02,725 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_w2i.txt
+08-01-2018:23:37:02,726 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:37:02,726 INFO     [data_utils.py:102] Generating i2w from w2i
+08-01-2018:23:37:02,726 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_i2w.txt
+08-01-2018:23:37:02,727 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:37:02,728 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:23:37:04,42 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:23:37:04,42 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:37:04,42 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:23:37:04,43 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:37:04,44 INFO     [data_utils.py:113] Getting data and saving
+08-01-2018:23:37:05,714 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:23:37:11,694 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:37:11,694 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:23:37:14,244 INFO     [data_utils.py:15] Done saving object to file
+08-01-2018:23:45:57,667 INFO     [main.py:25] in main
+08-01-2018:23:45:57,667 INFO     [attentionAbstractiveSummarization_train.py:110] Starting to train
+08-01-2018:23:45:57,667 INFO     [attentionAbstractiveSummarization_train.py:102] Starting to get training/validation data
+08-01-2018:23:45:57,670 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_w2i.txt
+08-01-2018:23:45:57,670 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:23:45:57,670 INFO     [data_utils.py:30] file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_w2i.txt had non-iterable data of length 36
+08-01-2018:23:45:57,670 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_i2w.txt
+08-01-2018:23:45:57,671 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:23:45:57,671 INFO     [data_utils.py:30] file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/aas_i2w.txt had non-iterable data of length 36
+08-01-2018:23:45:57,671 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt
+08-01-2018:23:45:57,671 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:23:45:57,671 INFO     [data_utils.py:30] file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_article_save.txt had non-iterable data of length 1
+08-01-2018:23:45:57,671 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt
+08-01-2018:23:45:57,671 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:23:45:57,671 INFO     [data_utils.py:30] file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/train_title_save.txt had non-iterable data of length 1
+08-01-2018:23:45:57,671 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt
+08-01-2018:23:46:03,596 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:23:46:03,596 INFO     [data_utils.py:30] file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_article_save.txt had non-iterable data of length 189651
+08-01-2018:23:46:03,596 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
+08-01-2018:23:46:05,948 INFO     [data_utils.py:22] Done loading data from file
+08-01-2018:23:46:05,948 INFO     [data_utils.py:30] file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt had non-iterable data of length 189651
