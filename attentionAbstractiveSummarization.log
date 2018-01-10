@@ -296,3 +296,30 @@
 08-01-2018:23:46:03,596 INFO     [data_utils.py:19] Loading data from file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt
 08-01-2018:23:46:05,948 INFO     [data_utils.py:22] Done loading data from file
 08-01-2018:23:46:05,948 INFO     [data_utils.py:30] file = /home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush/generated_data/valid_title_save.txt had non-iterable data of length 189651
+09-01-2018:00:21:24,221 INFO     [main.py:27] in main
+09-01-2018:00:21:24,221 INFO     [attentionAbstractiveSummarization_train.py:110] Starting to train
+09-01-2018:00:21:24,221 INFO     [attentionAbstractiveSummarization_train.py:102] Starting to get training/validation data
+09-01-2018:00:21:24,224 INFO     [data_utils.py:71] Getting w2c
+09-01-2018:00:21:25,758 INFO     [data_utils.py:94] len(w2c) = 33
+09-01-2018:00:21:25,759 INFO     [data_utils.py:99] Generating w2i from w2c
+09-01-2018:00:21:25,759 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/attentionAbstractiveSummarization/generated_data/aas_w2i.txt
+09-01-2018:00:21:25,760 INFO     [data_utils.py:15] Done saving object to file
+09-01-2018:00:21:25,760 INFO     [data_utils.py:108] len(w2i) = 36
+09-01-2018:00:21:25,760 INFO     [data_utils.py:113] Generating i2w from w2i
+09-01-2018:00:21:25,760 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/attentionAbstractiveSummarization/generated_data/aas_i2w.txt
+09-01-2018:00:21:25,761 INFO     [data_utils.py:15] Done saving object to file
+09-01-2018:00:21:25,761 INFO     [data_utils.py:116] len(i2w) = 36
+09-01-2018:00:21:25,766 INFO     [data_utils.py:125] Getting data and saving
+09-01-2018:00:21:27,495 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/attentionAbstractiveSummarization/generated_data/train_article_save.txt
+09-01-2018:00:21:27,496 INFO     [data_utils.py:15] Done saving object to file
+09-01-2018:00:21:27,496 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/attentionAbstractiveSummarization/generated_data/train_title_save.txt
+09-01-2018:00:21:27,496 INFO     [data_utils.py:15] Done saving object to file
+09-01-2018:00:21:27,496 INFO     [data_utils.py:162] len(articles) = 1
+09-01-2018:00:21:27,496 INFO     [data_utils.py:163] len(titles) = 1
+09-01-2018:00:21:27,498 INFO     [data_utils.py:125] Getting data and saving
+09-01-2018:00:21:29,176 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/attentionAbstractiveSummarization/generated_data/valid_article_save.txt
+09-01-2018:00:21:34,953 INFO     [data_utils.py:15] Done saving object to file
+09-01-2018:00:21:34,953 INFO     [data_utils.py:12] Saving object in file = /home/shantanu/PycharmProjects/attentionAbstractiveSummarization/generated_data/valid_title_save.txt
+09-01-2018:00:21:37,442 INFO     [data_utils.py:15] Done saving object to file
+09-01-2018:00:21:37,442 INFO     [data_utils.py:162] len(articles) = 189651
+09-01-2018:00:21:37,442 INFO     [data_utils.py:163] len(titles) = 189651

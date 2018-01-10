@@ -148,7 +148,7 @@ def get_data_and_save(src_data_files, save_data_files,
 
             a_sent_tok_ind = [w2i[w] if w in w2i else w2i[unk_sym] for w in a_sent_tok_words]
             t_sent_tok_ind = [w2i[w] if w in w2i else w2i[unk_sym] for w in t_sent_tok_words]
-            t_sent_tok_ind = [w2i[bos_sym]] + t_sent_tok_ind + [w2i[eos_sym]]
+            # t_sent_tok_ind = [w2i[bos_sym]] + t_sent_tok_ind + [w2i[eos_sym]]
 
             articles.append(a_sent_tok_ind)
             titles.append(t_sent_tok_ind)

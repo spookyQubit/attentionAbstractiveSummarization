@@ -4,7 +4,7 @@ import ConfigParser
 class AASConfig(object):
     def __init__(self):
 
-        self.proj_dir = '/home/shantanu/PycharmProjects/DynetAttentionAbstractiveSummarizerRush'
+        self.proj_dir = '/home/shantanu/PycharmProjects/attentionAbstractiveSummarization'
         self.config_file = self.proj_dir + '/attentionAbstractiveSummarization.cfg'
 
     # Accessors
@@ -138,6 +138,23 @@ class AASConfig(object):
         cfg = self.get_cfg()
         return cfg.getint('Model', 'hidden_layer_size')
 
+    # Training parameters
+    def get_minibatch_size(self):
+        cfg = self.get_cfg()
+        return cfg.getint('TrainingParameters', 'minibatch_size')
+
+    def get_n_epochs(self):
+        cfg = self.get_cfg()
+        return cfg.getint('TrainingParameters', 'n_epochs')
+
+    def get_n_times_predict_in_epoch(self):
+        cfg = self.get_cfg()
+        return cfg.getint('TrainingParameters', 'n_times_predict_in_epoch')
+
+    def get_should_save_model_while_training(self):
+        cfg = self.get_cfg()
+        return cfg.getboolean('TrainingParameters', 'should_save_model_while_training')
+
     # Manipulators
     def write_sections(self):
         cfg = ConfigParser.RawConfigParser()
@@ -146,6 +163,7 @@ class AASConfig(object):
         self.set_section_data(cfg)
         self.set_execution_mode(cfg)
         self.set_section_model(cfg)
+        self.set_section_training_params(cfg)
 
         with open(self.config_file, 'wb') as configfile:
             cfg.write(configfile)
@@ -198,4 +216,12 @@ class AASConfig(object):
         cfg.set('Model', 'word_emb_size', '200')
         cfg.set('Model', 'context_win_size', '5')
         cfg.set('Model', 'hidden_layer_size', '400')
+
+    def set_section_training_params(self, cfg):
+        # Training parameters
+        cfg.add_section('TrainingParameters')
+        cfg.set('TrainingParameters', 'minibatch_size', '16')
+        cfg.set('TrainingParameters', 'n_epochs', '2')
+        cfg.set('TrainingParameters', 'n_times_predict_in_epoch', '2')
+        cfg.set('TrainingParameters', 'should_save_model_while_training', 'true')
 
